@@ -1,0 +1,2 @@
+N		n		alpha		beta		gama		mean_error		max_error		mean_time1		mean_time0
+20		3		0.300000		0.200000		0.250000		0.005050		0.007253		0.015000		3.042500
